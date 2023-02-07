@@ -23,7 +23,7 @@ export const dunbar = localFont({
 			style: "extraLight",
 		},
 		{
-			path: "../../public/font/DunbarTall-light.otf",
+			path: "../../public/font/DunbarTall-Light.otf",
 			weight: "400",
 			style: "light",
 		},
